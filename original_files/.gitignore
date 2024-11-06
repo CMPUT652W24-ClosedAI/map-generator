@@ -1,0 +1,8 @@
+venv
+runs
+.vscode
+../.idea
+videos
+wandb
+all_data.csv
+models
